@@ -5,7 +5,7 @@ this probably already exists. i'm mostly doing this to learn and have some fun.
 
 what i'm picturing is a simple bot that would exist in slack or discord (testing in this case on discord) that can be issued a simple
 
-> info <HOSTNAME> 
+> info HOSTNAME
 
 command and return a handful of useful information about a host within your network based off an inventory. 
 
