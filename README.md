@@ -16,3 +16,7 @@ as far as managing the inventory I'm considering something like MongoDB because 
 i want to be able to import a file containing a list of hosts with inventory information and have it stored in the DB. the bot can query the DB and retrieve information about the host. 
 
 assumptions here are that you're actually maintaining an inventory of items which at most places is...well c'mon.
+
+notes:
+
+could'nt run mongoimport on m2 mac

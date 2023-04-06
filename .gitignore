@@ -1,0 +1,5 @@
+.env
+inventory.db
+hosts/inventory.db
+test.js
+node_modules
