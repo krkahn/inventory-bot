@@ -1,5 +1,5 @@
 # inventory-bot
-prototyping an inventory bot through discord
+**prototyping an inventory bot through discord**
 
 this probably already exists. i'm mostly doing this to learn and have some fun.
 
