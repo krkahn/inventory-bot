@@ -20,6 +20,7 @@ assumptions here are that you're actually maintaining an inventory of items whic
 build notes:
 
 couldn't run mongoimport on m2 mac (doesn't matter since we're using sqlite now)
+
 issues with embed vs embedbuilder for discord.js v14
 
 ![inventory-bot](https://user-images.githubusercontent.com/6900861/230469103-91953515-36d5-40d3-8fe3-27e98c42c56d.gif)
